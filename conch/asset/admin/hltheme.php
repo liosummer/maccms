@@ -1,8 +1,8 @@
 <?php
 return array (
-  'theme' => 
+  'theme' =>
   array (
-    'logo' => 
+    'logo' =>
     array (
       'bpic' => 'template/conch/asset/img/logo_black.png',
       'wpic' => 'template/conch/asset/img/logo_white.png',
@@ -10,20 +10,20 @@ return array (
       'webapp' => 'template/conch/asset/img/ios_fav.png',
     ),
     'lazy' => 'template/conch/asset/img/load.gif',
-    'tj' => 
+    'tj' =>
     array (
       'btn' => '1',
     ),
-    'head' => 
+    'head' =>
     array (
       'text' => '',
     ),
-    'foot' => 
+    'foot' =>
     array (
       'text' => '<p>本站只提供WEB页面服务，本站不存储、不制作任何视频，不承担任何由于内容的合法性及健康性所引起的争议和法律责任。</p>
 <p>若本站收录内容侵犯了您的权益，请附说明联系邮箱，本站将第一时间处理。</p>',
     ),
-    'type' => 
+    'type' =>
     array (
       'hom' => '1,2,3,4',
       'meunbtn' => '1',
@@ -35,17 +35,17 @@ return array (
       'zb' => '999',
       'mx' => '999',
     ),
-    'vod' => 
+    'vod' =>
     array (
       'hnum' => '12',
       'num' => '12',
     ),
-    'notice' => 
+    'notice' =>
     array (
       'btn' => '1',
       'text' => '本站已开启一分钟限制，请登录免费观看！',
     ),
-    'hotvod' => 
+    'hotvod' =>
     array (
       'btn' => '1',
       'hb' => '1',
@@ -53,27 +53,27 @@ return array (
       'title' => '',
       'num' => 'two',
     ),
-    'art' => 
+    'art' =>
     array (
       'hbtn' => '1',
       'htitle' => '热点资讯',
       'hnum' => '12',
     ),
-    'topic' => 
+    'topic' =>
     array (
       'hbtn' => '1',
       'hnum' => '6',
       'title' => '专题',
       'btn' => '1',
     ),
-    'actor' => 
+    'actor' =>
     array (
       'hbtn' => '1',
       'htitle' => '荧幕热星',
       'title' => '明星',
       'btn' => '1',
     ),
-    'rank' => 
+    'rank' =>
     array (
       'hbtn' => '1',
       'hby' => 'week',
@@ -84,29 +84,29 @@ return array (
       'num' => '6',
       'id' => '1,2,3,4,6,7',
     ),
-    'links' => 
+    'links' =>
     array (
       'btn' => '1',
       'title' => '友情链接',
       'num' => '30',
     ),
-    'banner' => 
+    'banner' =>
     array (
       'btn' => '1',
       'ms' => 'small',
       'smbg' => '1',
       'bgstyle' => '',
     ),
-    'lbbanner' => 
+    'lbbanner' =>
     array (
       'btn' => '1',
     ),
-    'search' => 
+    'search' =>
     array (
       'text' => '海量影片精彩看不停',
       'lxbtn' => '1',
     ),
-    'play' => 
+    'play' =>
     array (
       'height' => '56.25',
       'adbtn' => '1',
@@ -115,15 +115,15 @@ return array (
 <li>如果无法播放请重新刷新页面，或者切换线路。</li>
 <li>视频载入速度跟网速有关，请耐心等待几秒钟。</li>',
     ),
-    'show' => 
+    'show' =>
     array (
       'filter' => 'a',
     ),
-    'playlink' => 
+    'playlink' =>
     array (
       'btn' => '0',
     ),
-    'nav' => 
+    'nav' =>
     array (
       'id' => '1,2,3,4,5',
       'zdybtn' => '0',
@@ -144,7 +144,7 @@ return array (
       'zdylink4' => '',
       'zdypic4' => '',
     ),
-    'rtnav' => 
+    'rtnav' =>
     array (
       'ym' => 'a|c|d|e|h|i',
       'zdybtn1' => '0',
@@ -154,7 +154,7 @@ return array (
       'zdyname2' => '',
       'zdylink2' => '',
     ),
-    'fnav' => 
+    'fnav' =>
     array (
       'btn' => '1',
       'id' => '1,2,3,4',
@@ -166,19 +166,19 @@ return array (
       'zdyname2' => '自定义2',
       'zdylink2' => '',
     ),
-    'share' => 
+    'share' =>
     array (
       'bdbtn' => '1',
       'zdyfx' => '0',
       'link' => 'http://cgzyb.com',
     ),
-    'qq' => 
+    'qq' =>
     array (
       'btn' => '1',
       'title' => '联系QQ',
       'link' => 'http://wpa.qq.com/msgrd?v=3&uin=333333&site=qq&menu=yes',
     ),
-    'weixin' => 
+    'weixin' =>
     array (
       'btn' => '1',
       'btntext1' => '微信观看',
@@ -189,7 +189,7 @@ return array (
 
 ',
     ),
-    'zans' => 
+    'zans' =>
     array (
       'btn' => '1',
       'jjtc' => '就知道你会点，哼~！不过还要祝你观影愉快~!',
@@ -197,44 +197,44 @@ return array (
       'title' => '感谢赞赏',
       'text' => '<p>长按识别二维码或微信扫描二维码</p><p>金额随意，多少都是支持</p>',
     ),
-    'apps' => 
+    'apps' =>
     array (
       'btn' => '1',
       'link' => '',
     ),
-    'map' => 
+    'map' =>
     array (
       'btn' => '1',
       'title' => '最近更新',
       'id' => '',
     ),
-    'color' => 
+    'color' =>
     array (
       'select' => 'pink',
       'sbtn' => '1',
       'ms' => 'white',
       'mbtn' => '1',
     ),
-    'role' => 
+    'role' =>
     array (
       'title' => '角色',
       'btn' => '0',
     ),
-    'plot' => 
+    'plot' =>
     array (
       'title' => '剧情',
       'btn' => '0',
     ),
-    'gbook' => 
+    'gbook' =>
     array (
       'title' => '留言',
     ),
-    'user' => 
+    'user' =>
     array (
       'title' => '会员',
     ),
     'font' => '0',
-    'seos' => 
+    'seos' =>
     array (
       'index_name' => '',
       'index_key' => '',
@@ -261,20 +261,20 @@ return array (
       'topicd_key' => '',
       'topicd_des' => '',
     ),
-    'ads' => 
+    'ads' =>
     array (
       'btn' => '1',
-      'bottom' => 
+      'bottom' =>
       array (
         'btn' => '0',
-        'content' => '<a href="#"><img src="https://ain19.com/wp-content/themes/b2/Assets/fontend/images/ads-example.jpg" /></a>',
+        'content' => '<a href="#"><img src="https://lio-1311014746.cos.ap-shanghai.myqcloud.com/defaultAcr.jpg?q-sign-algorithm=sha1&q-ak=AKID3Kz13g9xWs0dCh4qoTgnUma2jUNIwP4BQqAQUTPifYG70nFXHJMkylpeN7JwZ5UA&q-sign-time=1689727690;1689731290&q-key-time=1689727690;1689731290&q-header-list=host&q-url-param-list=ci-process&q-signature=66f429dee5ad70da018f947bb31dd306f74c317b&x-cos-security-token=HB6zrKeHw92TGjhKnCGyjtwKA2XvqPbad2fd6335c75377773ccea2c90d0fdbafjNC-fHNcFTUsemKtF_KxBgIw7MS0P5glqjFNqlZOZeFU1RO3tOCWU5T0CcwkfdndtWnO1iliXMmpBMXfnrRbUD8gkI93cM-n7HAqs0zTb2P6s7YFVGvgUPxxs63m7xgZsYo5yXrus6WuP333pXM2Zlje_yAGDC9mlviW0r0zf6r2QggkkVZtWwenn1qS5EnL&ci-process=originImage" /></a>',
       ),
-      'all' => 
+      'all' =>
       array (
         'btn' => '1',
-        'content' => '<a href="#"><img src="https://ain19.com/wp-content/themes/b2/Assets/fontend/images/ads-example.jpg" /></a>',
+        'content' => '<a href="#"><img src="https://lio-1311014746.cos.ap-shanghai.myqcloud.com/defaultAcr.jpg?q-sign-algorithm=sha1&q-ak=AKID3Kz13g9xWs0dCh4qoTgnUma2jUNIwP4BQqAQUTPifYG70nFXHJMkylpeN7JwZ5UA&q-sign-time=1689727690;1689731290&q-key-time=1689727690;1689731290&q-header-list=host&q-url-param-list=ci-process&q-signature=66f429dee5ad70da018f947bb31dd306f74c317b&x-cos-security-token=HB6zrKeHw92TGjhKnCGyjtwKA2XvqPbad2fd6335c75377773ccea2c90d0fdbafjNC-fHNcFTUsemKtF_KxBgIw7MS0P5glqjFNqlZOZeFU1RO3tOCWU5T0CcwkfdndtWnO1iliXMmpBMXfnrRbUD8gkI93cM-n7HAqs0zTb2P6s7YFVGvgUPxxs63m7xgZsYo5yXrus6WuP333pXM2Zlje_yAGDC9mlviW0r0zf6r2QggkkVZtWwenn1qS5EnL&ci-process=originImage" /></a>',
       ),
-      'banner' => 
+      'banner' =>
       array (
         'btn' => '0',
         'tbtn' => '0',
@@ -283,56 +283,56 @@ return array (
         'link' => '',
         'pic' => '',
       ),
-      'vod_w' => 
+      'vod_w' =>
       array (
         'btn' => '1',
-        'content' => '<a href="#"><img src="https://ain19.com/wp-content/themes/b2/Assets/fontend/images/ads-example.jpg" /></a>
+        'content' => '<a href="#"><img src="https://lio-1311014746.cos.ap-shanghai.myqcloud.com/defaultAcr.jpg?q-sign-algorithm=sha1&q-ak=AKID3Kz13g9xWs0dCh4qoTgnUma2jUNIwP4BQqAQUTPifYG70nFXHJMkylpeN7JwZ5UA&q-sign-time=1689727690;1689731290&q-key-time=1689727690;1689731290&q-header-list=host&q-url-param-list=ci-process&q-signature=66f429dee5ad70da018f947bb31dd306f74c317b&x-cos-security-token=HB6zrKeHw92TGjhKnCGyjtwKA2XvqPbad2fd6335c75377773ccea2c90d0fdbafjNC-fHNcFTUsemKtF_KxBgIw7MS0P5glqjFNqlZOZeFU1RO3tOCWU5T0CcwkfdndtWnO1iliXMmpBMXfnrRbUD8gkI93cM-n7HAqs0zTb2P6s7YFVGvgUPxxs63m7xgZsYo5yXrus6WuP333pXM2Zlje_yAGDC9mlviW0r0zf6r2QggkkVZtWwenn1qS5EnL&ci-process=originImage" /></a>
 ',
       ),
-      'vod_r' => 
+      'vod_r' =>
       array (
         'btn' => '1',
-        'content' => '<a href="#"><img src="https://ain19.com/wp-content/themes/b2/Assets/fontend/images/ads-example.jpg" /></a>',
+        'content' => '<a href="#"><img src="https://lio-1311014746.cos.ap-shanghai.myqcloud.com/defaultAcr.jpg?q-sign-algorithm=sha1&q-ak=AKID3Kz13g9xWs0dCh4qoTgnUma2jUNIwP4BQqAQUTPifYG70nFXHJMkylpeN7JwZ5UA&q-sign-time=1689727690;1689731290&q-key-time=1689727690;1689731290&q-header-list=host&q-url-param-list=ci-process&q-signature=66f429dee5ad70da018f947bb31dd306f74c317b&x-cos-security-token=HB6zrKeHw92TGjhKnCGyjtwKA2XvqPbad2fd6335c75377773ccea2c90d0fdbafjNC-fHNcFTUsemKtF_KxBgIw7MS0P5glqjFNqlZOZeFU1RO3tOCWU5T0CcwkfdndtWnO1iliXMmpBMXfnrRbUD8gkI93cM-n7HAqs0zTb2P6s7YFVGvgUPxxs63m7xgZsYo5yXrus6WuP333pXM2Zlje_yAGDC9mlviW0r0zf6r2QggkkVZtWwenn1qS5EnL&ci-process=originImage" /></a>',
       ),
-      'play' => 
+      'play' =>
       array (
         'btn' => '1',
         'tbtn' => '1',
         'title' => '测试广告',
         'link' => '',
-        'pic' => 'https://ain19.com/wp-content/themes/b2/Assets/fontend/images/ads-example.jpg',
+        'pic' => 'https://lio-1311014746.cos.ap-shanghai.myqcloud.com/defaultAcr.jpg?q-sign-algorithm=sha1&q-ak=AKID3Kz13g9xWs0dCh4qoTgnUma2jUNIwP4BQqAQUTPifYG70nFXHJMkylpeN7JwZ5UA&q-sign-time=1689727690;1689731290&q-key-time=1689727690;1689731290&q-header-list=host&q-url-param-list=ci-process&q-signature=66f429dee5ad70da018f947bb31dd306f74c317b&x-cos-security-token=HB6zrKeHw92TGjhKnCGyjtwKA2XvqPbad2fd6335c75377773ccea2c90d0fdbafjNC-fHNcFTUsemKtF_KxBgIw7MS0P5glqjFNqlZOZeFU1RO3tOCWU5T0CcwkfdndtWnO1iliXMmpBMXfnrRbUD8gkI93cM-n7HAqs0zTb2P6s7YFVGvgUPxxs63m7xgZsYo5yXrus6WuP333pXM2Zlje_yAGDC9mlviW0r0zf6r2QggkkVZtWwenn1qS5EnL&ci-process=originImage',
       ),
-      'search_v' => 
+      'search_v' =>
       array (
         'btn' => '1',
         'tbtn' => '1',
         'title' => '测试广告',
         'sub' => '测试广告',
         'link' => '',
-        'pic' => 'https://ain19.com/wp-content/themes/b2/Assets/fontend/images/ads-example.jpg',
+        'pic' => 'https://lio-1311014746.cos.ap-shanghai.myqcloud.com/defaultAcr.jpg?q-sign-algorithm=sha1&q-ak=AKID3Kz13g9xWs0dCh4qoTgnUma2jUNIwP4BQqAQUTPifYG70nFXHJMkylpeN7JwZ5UA&q-sign-time=1689727690;1689731290&q-key-time=1689727690;1689731290&q-header-list=host&q-url-param-list=ci-process&q-signature=66f429dee5ad70da018f947bb31dd306f74c317b&x-cos-security-token=HB6zrKeHw92TGjhKnCGyjtwKA2XvqPbad2fd6335c75377773ccea2c90d0fdbafjNC-fHNcFTUsemKtF_KxBgIw7MS0P5glqjFNqlZOZeFU1RO3tOCWU5T0CcwkfdndtWnO1iliXMmpBMXfnrRbUD8gkI93cM-n7HAqs0zTb2P6s7YFVGvgUPxxs63m7xgZsYo5yXrus6WuP333pXM2Zlje_yAGDC9mlviW0r0zf6r2QggkkVZtWwenn1qS5EnL&ci-process=originImage',
       ),
-      'art_w' => 
+      'art_w' =>
       array (
         'btn' => '1',
-        'content' => '<a href="#"><img src="https://ain19.com/wp-content/themes/b2/Assets/fontend/images/ads-example.jpg" /></a>',
+        'content' => '<a href="#"><img src="https://lio-1311014746.cos.ap-shanghai.myqcloud.com/defaultAcr.jpg?q-sign-algorithm=sha1&q-ak=AKID3Kz13g9xWs0dCh4qoTgnUma2jUNIwP4BQqAQUTPifYG70nFXHJMkylpeN7JwZ5UA&q-sign-time=1689727690;1689731290&q-key-time=1689727690;1689731290&q-header-list=host&q-url-param-list=ci-process&q-signature=66f429dee5ad70da018f947bb31dd306f74c317b&x-cos-security-token=HB6zrKeHw92TGjhKnCGyjtwKA2XvqPbad2fd6335c75377773ccea2c90d0fdbafjNC-fHNcFTUsemKtF_KxBgIw7MS0P5glqjFNqlZOZeFU1RO3tOCWU5T0CcwkfdndtWnO1iliXMmpBMXfnrRbUD8gkI93cM-n7HAqs0zTb2P6s7YFVGvgUPxxs63m7xgZsYo5yXrus6WuP333pXM2Zlje_yAGDC9mlviW0r0zf6r2QggkkVZtWwenn1qS5EnL&ci-process=originImage" /></a>',
       ),
-      'art_r' => 
+      'art_r' =>
       array (
         'btn' => '1',
-        'content' => '<a href="#"><img src="https://ain19.com/wp-content/themes/b2/Assets/fontend/images/ads-example.jpg" /></a>',
+        'content' => '<a href="#"><img src="https://lio-1311014746.cos.ap-shanghai.myqcloud.com/defaultAcr.jpg?q-sign-algorithm=sha1&q-ak=AKID3Kz13g9xWs0dCh4qoTgnUma2jUNIwP4BQqAQUTPifYG70nFXHJMkylpeN7JwZ5UA&q-sign-time=1689727690;1689731290&q-key-time=1689727690;1689731290&q-header-list=host&q-url-param-list=ci-process&q-signature=66f429dee5ad70da018f947bb31dd306f74c317b&x-cos-security-token=HB6zrKeHw92TGjhKnCGyjtwKA2XvqPbad2fd6335c75377773ccea2c90d0fdbafjNC-fHNcFTUsemKtF_KxBgIw7MS0P5glqjFNqlZOZeFU1RO3tOCWU5T0CcwkfdndtWnO1iliXMmpBMXfnrRbUD8gkI93cM-n7HAqs0zTb2P6s7YFVGvgUPxxs63m7xgZsYo5yXrus6WuP333pXM2Zlje_yAGDC9mlviW0r0zf6r2QggkkVZtWwenn1qS5EnL&ci-process=originImage" /></a>',
       ),
-      'artlist' => 
+      'artlist' =>
       array (
         'btn' => '1',
         'tbtn' => '1',
         'title' => '测试广告',
         'link' => '',
-        'pic' => 'https://ain19.com/wp-content/themes/b2/Assets/fontend/images/ads-example.jpg',
+        'pic' => 'https://lio-1311014746.cos.ap-shanghai.myqcloud.com/defaultAcr.jpg?q-sign-algorithm=sha1&q-ak=AKID3Kz13g9xWs0dCh4qoTgnUma2jUNIwP4BQqAQUTPifYG70nFXHJMkylpeN7JwZ5UA&q-sign-time=1689727690;1689731290&q-key-time=1689727690;1689731290&q-header-list=host&q-url-param-list=ci-process&q-signature=66f429dee5ad70da018f947bb31dd306f74c317b&x-cos-security-token=HB6zrKeHw92TGjhKnCGyjtwKA2XvqPbad2fd6335c75377773ccea2c90d0fdbafjNC-fHNcFTUsemKtF_KxBgIw7MS0P5glqjFNqlZOZeFU1RO3tOCWU5T0CcwkfdndtWnO1iliXMmpBMXfnrRbUD8gkI93cM-n7HAqs0zTb2P6s7YFVGvgUPxxs63m7xgZsYo5yXrus6WuP333pXM2Zlje_yAGDC9mlviW0r0zf6r2QggkkVZtWwenn1qS5EnL&ci-process=originImage',
       ),
-      'user' => 
+      'user' =>
       array (
         'btn' => '1',
-        'pic' => 'https://ain19.com/wp-content/themes/b2/Assets/fontend/images/ads-example.jpg',
+        'pic' => 'https://lio-1311014746.cos.ap-shanghai.myqcloud.com/defaultAcr.jpg?q-sign-algorithm=sha1&q-ak=AKID3Kz13g9xWs0dCh4qoTgnUma2jUNIwP4BQqAQUTPifYG70nFXHJMkylpeN7JwZ5UA&q-sign-time=1689727690;1689731290&q-key-time=1689727690;1689731290&q-header-list=host&q-url-param-list=ci-process&q-signature=66f429dee5ad70da018f947bb31dd306f74c317b&x-cos-security-token=HB6zrKeHw92TGjhKnCGyjtwKA2XvqPbad2fd6335c75377773ccea2c90d0fdbafjNC-fHNcFTUsemKtF_KxBgIw7MS0P5glqjFNqlZOZeFU1RO3tOCWU5T0CcwkfdndtWnO1iliXMmpBMXfnrRbUD8gkI93cM-n7HAqs0zTb2P6s7YFVGvgUPxxs63m7xgZsYo5yXrus6WuP333pXM2Zlje_yAGDC9mlviW0r0zf6r2QggkkVZtWwenn1qS5EnL&ci-process=originImage',
       ),
     ),
   ),
